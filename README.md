@@ -1,2 +1,2 @@
 # zendesk
-Update zendesk product info
+Update zendesk info
